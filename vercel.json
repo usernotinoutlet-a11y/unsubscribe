@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:token", "destination": "/api/unsubscribe/:token" }
+  ]
+}
