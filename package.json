@@ -1,0 +1,7 @@
+{
+  "name": "unsubscribe-notinoutletnl",
+  "private": true,
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
